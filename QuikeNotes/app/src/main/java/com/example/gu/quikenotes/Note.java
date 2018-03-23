@@ -1,0 +1,26 @@
+package com.example.gu.quikenotes;
+
+/**
+ * Created by gu on 2018/1/24.
+ */
+
+public class Note {
+    String date;
+    String text;
+
+    public String getDate() {
+        return date;
+    }
+
+    public void setDate(String date) {
+        this.date = date;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public void setText(String text) {
+        this.text = text;
+    }
+}

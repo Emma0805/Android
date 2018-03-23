@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quike Notes</string>
+    <string name="filename">QuikeNote</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No Note Present</string>
+    <string name="saved">Note Saved!</string>
+</resources>

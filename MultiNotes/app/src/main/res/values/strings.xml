@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="filename">Multi_Notes_JSON</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No Note Present</string>
+    <string name="saved">Note Saved!</string>
+    <string name="position">NOTE_POS</string>
+    <string name="title">USER_TEXT_TITLE</string>
+    <string name="content">USER_TEXT_CONTENT</string>
+
+</resources>
