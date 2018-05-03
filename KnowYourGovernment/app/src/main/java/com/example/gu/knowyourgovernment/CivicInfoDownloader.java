@@ -22,7 +22,7 @@ public class CivicInfoDownloader extends AsyncTask<String, Void, String> {
     private static final String TAG = "CivicInfoDownloader";
     private MainActivity mainActivity;
 
-    String APIkey = "AIzaSyBHX1uya5k_NvSmm53QKvaY5bcK4NeOdnk";
+    String APIkey = "";
     String URL = "https://www.googleapis.com/civicinfo/v2/representatives?key=" + APIkey + "&address=";
 
     public CivicInfoDownloader(MainActivity ma) {
